@@ -7,3 +7,8 @@ How to use it?
 This is a command line tool. To use it input the variables input_filename, output_filename.
 
 e.g. "python main.py input.txt output.gpx"
+
+# OR
+
+A python script that converts gps data to an .kml file.
+e.g. "python main_to_kml.py input.txt output.kml"
